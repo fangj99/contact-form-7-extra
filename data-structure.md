@@ -30,7 +30,7 @@ Array  |  Array
 
 ```
 
-
+$mail's structure get from error_log
 
 ```
 wpcf7_do_something  |  Array
