@@ -32,6 +32,11 @@ After modification, you can put folder "contact-form-7-extra" into  "wp-content/
 ##debug
 You can use function my_log_file to watch any object's detail in the log file, currently, we set log file in /tmp, you can change it to anywhere you like
 
+
+```
+$error_dir = '/tmp/php_error.log';
+```
+
 ```
 my_log_file($mail, '' );
 my_log_file( $WPCF7_ContactForm , '' );
