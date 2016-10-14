@@ -43,4 +43,4 @@ my_log_file( $WPCF7_ContactForm , '' );
 my_log_file( $data ,'');
 my_log_file(array_values( $data['your-query'])[0] ,'');
 ```
-
+####Some sample data structure is in the file "data-structure.md"
